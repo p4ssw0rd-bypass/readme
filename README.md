@@ -11,6 +11,9 @@
   <p>可能是 Red Teamer，一点点懒，但热爱安全 & 编程。这个账号就像是我的数字遗产。<br>
      Maybe a Red Teamer — a little lazy, deeply passionate about security and coding. This account is my digital legacy.</p>
 </div>
-
+<ul>
+  <li>🔍 热爱探索技术细节，专注红队与信息安全 | Passionate about security details & red teaming</li>
+  <li>🌱 不断学习，持续构建属于自己的安全武器库 | Building a personal cyber arsenal through constant learning</li>
+  </ul>
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=p4ssw0rd-bypass&show_icons=true&theme=default)
 
